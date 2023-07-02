@@ -1,0 +1,440 @@
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\101.xmi
+Вычисленные метрики:
+NoSw: 16
+NoAct: 52
+NoDn: 28
+NoF: 2
+NoJ: 2
+NoE: 129
+C: 131
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\122.xmi
+Вычисленные метрики:
+NoSw: 2
+NoAct: 6
+NoDn: 2
+NoF: 0
+NoJ: 0
+NoE: 9
+C: 11
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\59.xmi
+Вычисленные метрики:
+NoSw: 4
+NoAct: 17
+NoDn: 6
+NoF: 0
+NoJ: 0
+NoE: 27
+C: 29
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\60.xmi
+Вычисленные метрики:
+NoSw: 3
+NoAct: 19
+NoDn: 6
+NoF: 0
+NoJ: 0
+NoE: 32
+C: 34
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\61.xmi
+Вычисленные метрики:
+NoSw: 4
+NoAct: 17
+NoDn: 7
+NoF: 0
+NoJ: 0
+NoE: 33
+C: 35
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\65.xmi
+Вычисленные метрики:
+NoSw: 0
+NoAct: 20
+NoDn: 7
+NoF: 0
+NoJ: 0
+NoE: 33
+C: 35
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\AD администратора_1.xmi
+Вычисленные метрики:
+NoSw: 3
+NoAct: 29
+NoDn: 12
+NoF: 0
+NoJ: 1
+NoE: 61
+C: 63
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\AD администратора_2.xmi
+Вычисленные метрики:
+NoSw: 1
+NoAct: 10
+NoDn: 4
+NoF: 0
+NoJ: 1
+NoE: 22
+C: 24
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\AD сотрудника_1.xmi
+Вычисленные метрики:
+NoSw: 3
+NoAct: 35
+NoDn: 15
+NoF: 1
+NoJ: 2
+NoE: 83
+C: 85
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\AD сотрудника_2.xmi
+Вычисленные метрики:
+NoSw: 2
+NoAct: 23
+NoDn: 9
+NoF: 0
+NoJ: 1
+NoE: 45
+C: 47
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\AD-48.xmi
+Вычисленные метрики:
+NoSw: 0
+NoAct: 8
+NoDn: 2
+NoF: 1
+NoJ: 2
+NoE: 18
+C: 20
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\AD-49.xmi
+Вычисленные метрики:
+NoSw: 2
+NoAct: 11
+NoDn: 6
+NoF: 0
+NoJ: 0
+NoE: 22
+C: 24
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\AD-50.xmi
+Вычисленные метрики:
+NoSw: 4
+NoAct: 14
+NoDn: 4
+NoF: 0
+NoJ: 0
+NoE: 23
+C: 25
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\AD-51.xmi
+Вычисленные метрики:
+NoSw: 0
+NoAct: 10
+NoDn: 9
+NoF: 0
+NoJ: 0
+NoE: 27
+C: 29
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\AD-52.xmi
+Вычисленные метрики:
+NoSw: 0
+NoAct: 17
+NoDn: 10
+NoF: 0
+NoJ: 0
+NoE: 33
+C: 35
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\AD-53.xmi
+Вычисленные метрики:
+NoSw: 0
+NoAct: 8
+NoDn: 2
+NoF: 2
+NoJ: 1
+NoE: 16
+C: 18
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\AD-54.xmi
+Вычисленные метрики:
+NoSw: 4
+NoAct: 20
+NoDn: 10
+NoF: 0
+NoJ: 0
+NoE: 38
+C: 40
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\AD-55.xmi
+Вычисленные метрики:
+NoSw: 5
+NoAct: 12
+NoDn: 6
+NoF: 0
+NoJ: 1
+NoE: 27
+C: 29
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\AD-56.xmi
+Вычисленные метрики:
+NoSw: 5
+NoAct: 19
+NoDn: 7
+NoF: 0
+NoJ: 0
+NoE: 37
+C: 39
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\AD-57.xmi
+Вычисленные метрики:
+NoSw: 5
+NoAct: 21
+NoDn: 13
+NoF: 0
+NoJ: 0
+NoE: 47
+C: 49
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\Д34, Кочинов Д.А., ФИТ-1-19.xmi
+Вычисленные метрики:
+NoSw: 3
+NoAct: 8
+NoDn: 8
+NoF: 0
+NoJ: 0
+NoE: 24
+C: 26
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ №4 К.Н. Шестаков ФИТ-1-19.xmi
+Вычисленные метрики:
+NoSw: 2
+NoAct: 6
+NoDn: 3
+NoF: 0
+NoJ: 0
+NoE: 11
+C: 13
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ3 Кулижский Н.С., ФИТ-1-18 (1).xmi
+Вычисленные метрики:
+NoSw: 1
+NoAct: 4
+NoDn: 3
+NoF: 0
+NoJ: 0
+NoE: 10
+C: 12
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ3 Кулижский Н.С., ФИТ-1-18 (2).xmi
+Вычисленные метрики:
+NoSw: 1
+NoAct: 10
+NoDn: 7
+NoF: 0
+NoJ: 0
+NoE: 27
+C: 29
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ3 Кулижский Н.С., ФИТ-1-18 (3).xmi
+Вычисленные метрики:
+NoSw: 1
+NoAct: 6
+NoDn: 4
+NoF: 0
+NoJ: 0
+NoE: 15
+C: 17
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ3 Лискова Е.С. ФИТ-2-2018.xmi
+Вычисленные метрики:
+NoSw: 3
+NoAct: 9
+NoDn: 4
+NoF: 0
+NoJ: 0
+NoE: 14
+C: 16
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ3, Акмаев К.А., ФИТ-1-2018.xmi
+Вычисленные метрики:
+NoSw: 1
+NoAct: 12
+NoDn: 7
+NoF: 0
+NoJ: 0
+NoE: 26
+C: 28
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ3, Глватских К.Е., ФИТ-1-2018.xmi
+Вычисленные метрики:
+NoSw: 2
+NoAct: 11
+NoDn: 4
+NoF: 2
+NoJ: 2
+NoE: 25
+C: 27
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ4 Зедымышева П.Ю., ФИТ-2-19 (2).xmi
+Вычисленные метрики:
+NoSw: 1
+NoAct: 10
+NoDn: 5
+NoF: 0
+NoJ: 0
+NoE: 21
+C: 23
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ4 Зедымышева П.Ю., ФИТ-2-19.xmi
+Вычисленные метрики:
+NoSw: 1
+NoAct: 15
+NoDn: 7
+NoF: 0
+NoJ: 0
+NoE: 34
+C: 36
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ4 Мосеева ФИТ-2-19.xmi
+Вычисленные метрики:
+NoSw: 0
+NoAct: 0
+NoDn: 0
+NoF: 0
+NoJ: 0
+NoE: 0
+C: 2
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ4 Синявина Н.С., ФИТ-2-19.xmi
+Вычисленные метрики:
+NoSw: 1
+NoAct: 3
+NoDn: 3
+NoF: 0
+NoJ: 0
+NoE: 8
+C: 10
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ4 Соболева А.О., ФИТ-2-19.xmi
+Вычисленные метрики:
+NoSw: 0
+NoAct: 0
+NoDn: 0
+NoF: 0
+NoJ: 0
+NoE: 0
+C: 2
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ4 Соколова М.А. ФИТ-1-19.xmi
+Вычисленные метрики:
+NoSw: 3
+NoAct: 9
+NoDn: 2
+NoF: 0
+NoJ: 0
+NoE: 13
+C: 15
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ4, Кухар Д.А., ФИТ-2-2019.xmi
+Вычисленные метрики:
+NoSw: 1
+NoAct: 5
+NoDn: 3
+NoF: 0
+NoJ: 0
+NoE: 15
+C: 17
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ4, Пономарев А. Ф. ФИТ-1-2019.xmi
+Вычисленные метрики:
+NoSw: 3
+NoAct: 12
+NoDn: 9
+NoF: 0
+NoJ: 0
+NoE: 32
+C: 34
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ4, Рябов М.Д., ФИТ-2-2018, администратор.xmi
+Вычисленные метрики:
+NoSw: 1
+NoAct: 7
+NoDn: 5
+NoF: 0
+NoJ: 0
+NoE: 20
+C: 22
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ4, Рябов М.Д., ФИТ-2-2018, пользователь с правами редактирования.xmi
+Вычисленные метрики:
+NoSw: 1
+NoAct: 4
+NoDn: 1
+NoF: 0
+NoJ: 0
+NoE: 8
+C: 10
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ4, Рябов М.Д., ФИТ-2-2018, посетитель.xmi
+Вычисленные метрики:
+NoSw: 1
+NoAct: 3
+NoDn: 2
+NoF: 0
+NoJ: 0
+NoE: 7
+C: 9
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ4, Сычев И.А., ФИТ-2-18, администратор.xmi
+Вычисленные метрики:
+NoSw: 1
+NoAct: 6
+NoDn: 4
+NoF: 0
+NoJ: 0
+NoE: 16
+C: 18
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ4, Сычев И.А., ФИТ-2-18, кассир.xmi
+Вычисленные метрики:
+NoSw: 1
+NoAct: 10
+NoDn: 5
+NoF: 0
+NoJ: 0
+NoE: 23
+C: 25
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ4, Сычев И.А., ФИТ-2-18, котролер-кассир.xmi
+Вычисленные метрики:
+NoSw: 1
+NoAct: 5
+NoDn: 1
+NoF: 0
+NoJ: 0
+NoE: 6
+C: 8
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\ДЗ4_Кузнецова.А.А_ФИТ-1-19.xmi
+Вычисленные метрики:
+NoSw: 0
+NoAct: 0
+NoDn: 0
+NoF: 0
+NoJ: 0
+NoE: 0
+C: 2
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\диаграмма3-3.xmi
+Вычисленные метрики:
+NoSw: 5
+NoAct: 17
+NoDn: 4
+NoF: 1
+NoJ: 1
+NoE: 23
+C: 25
+

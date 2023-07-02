@@ -1,0 +1,792 @@
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\100.xmi
+Вычисленные метрики:
+NOUC: 31
+NOA: 15
+NOUCA: 0,48
+UC2: 37
+UC3: 48,50
+UC4: 144,60
+CTE: 130
+CIE: 127
+Cucd: 257
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\102.xmi
+Вычисленные метрики:
+NOUC: 12
+NOA: 6
+NOUCA: 0,5
+UC2: 21
+UC3: 27,13
+UC4: 41,53
+CTE: 63
+CIE: 63
+Cucd: 126
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\103.xmi
+Вычисленные метрики:
+NOUC: 2
+NOA: 7
+NOUCA: 3,5
+UC2: 4
+UC3: 5,28
+UC4: 5,68
+CTE: 12
+CIE: 12
+Cucd: 24
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\104.xmi
+Вычисленные метрики:
+NOUC: 12
+NOA: 4
+NOUCA: 0,33
+UC2: 18
+UC3: 23,75
+UC4: 38,15
+CTE: 57
+CIE: 57
+Cucd: 114
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\105.xmi
+Вычисленные метрики:
+NOUC: 1
+NOA: 4
+NOUCA: 4
+UC2: 1
+UC3: 1
+UC4: 1,1
+CTE: 3
+CIE: 3
+Cucd: 6
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\106.xmi
+Вычисленные метрики:
+NOUC: 16
+NOA: 8
+NOUCA: 0,5
+UC2: 23
+UC3: 32,44
+UC4: 58,04
+CTE: 80
+CIE: 80
+Cucd: 160
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\107.xmi
+Вычисленные метрики:
+NOUC: 13
+NOA: 5
+NOUCA: 0,38
+UC2: 18
+UC3: 23,75
+UC4: 40,65
+CTE: 61
+CIE: 61
+Cucd: 122
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\108.xmi
+Вычисленные метрики:
+NOUC: 5
+NOA: 3
+NOUCA: 0,6
+UC2: 8
+UC3: 10,93
+UC4: 13,43
+CTE: 26
+CIE: 26
+Cucd: 52
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\109.xmi
+Вычисленные метрики:
+NOUC: 9
+NOA: 3
+NOUCA: 0,33
+UC2: 7
+UC3: 8,92
+UC4: 17,02
+CTE: 29
+CIE: 29
+Cucd: 58
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\110.xmi
+Вычисленные метрики:
+NOUC: 11
+NOA: 3
+NOUCA: 0,27
+UC2: 18
+UC3: 20,47
+UC4: 32,77
+CTE: 57
+CIE: 58
+Cucd: 115
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\111.xmi
+Вычисленные метрики:
+NOUC: 20
+NOA: 8
+NOUCA: 0,4
+UC2: 30
+UC3: 37,10
+UC4: 77,50
+CTE: 116
+CIE: 116
+Cucd: 232
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\112.xmi
+Вычисленные метрики:
+NOUC: 1
+NOA: 4
+NOUCA: 4
+UC2: 1
+UC3: 1
+UC4: 1,1
+CTE: 3
+CIE: 3
+Cucd: 6
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\113.xmi
+Вычисленные метрики:
+NOUC: 88
+NOA: 30
+NOUCA: 0,34
+UC2: 88
+UC3: 100,88
+UC4: 876,38
+CTE: 376
+CIE: 367
+Cucd: 743
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\114.xmi
+Вычисленные метрики:
+NOUC: 203
+NOA: 46
+NOUCA: 0,23
+UC2: 202
+UC3: 247,87
+UC4: 4370,37
+CTE: 821
+CIE: 760
+Cucd: 1581
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\115.xmi
+Вычисленные метрики:
+NOUC: 4
+NOA: 2
+NOUCA: 0,5
+UC2: 8
+UC3: 10,56
+UC4: 12,16
+CTE: 24
+CIE: 24
+Cucd: 48
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\116.xmi
+Вычисленные метрики:
+NOUC: 61
+NOA: 19
+NOUCA: 0,31
+UC2: 50
+UC3: 65,34
+UC4: 437,44
+CTE: 203
+CIE: 189
+Cucd: 392
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\117.xmi
+Вычисленные метрики:
+NOUC: 32
+NOA: 8
+NOUCA: 0,25
+UC2: 50
+UC3: 63,96
+UC4: 166,96
+CTE: 190
+CIE: 190
+Cucd: 380
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\118.xmi
+Вычисленные метрики:
+NOUC: 10
+NOA: 4
+NOUCA: 0,4
+UC2: 14
+UC3: 18,47
+UC4: 28,47
+CTE: 48
+CIE: 48
+Cucd: 96
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\119.xmi
+Вычисленные метрики:
+NOUC: 12
+NOA: 3
+NOUCA: 0,25
+UC2: 17
+UC3: 14,20
+UC4: 29,20
+CTE: 64
+CIE: 65
+Cucd: 129
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\120.xmi
+Вычисленные метрики:
+NOUC: 15
+NOA: 5
+NOUCA: 0,33
+UC2: 19
+UC3: 24,75
+UC4: 47,25
+CTE: 66
+CIE: 66
+Cucd: 132
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\121.xmi
+Вычисленные метрики:
+NOUC: 14
+NOA: 6
+NOUCA: 0,43
+UC2: 23
+UC3: 28,75
+UC4: 48,35
+CTE: 69
+CIE: 69
+Cucd: 138
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\123.xmi
+Вычисленные метрики:
+NOUC: 6
+NOA: 3
+NOUCA: 0,5
+UC2: 8
+UC3: 10,93
+UC4: 14,53
+CTE: 27
+CIE: 27
+Cucd: 54
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\124.xmi
+Вычисленные метрики:
+NOUC: 10
+NOA: 3
+NOUCA: 0,3
+UC2: 18
+UC3: 23,75
+UC4: 33,75
+CTE: 56
+CIE: 56
+Cucd: 112
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\125.xmi
+Вычисленные метрики:
+NOUC: 17
+NOA: 4
+NOUCA: 0,24
+UC2: 20
+UC3: 23,83
+UC4: 52,73
+CTE: 69
+CIE: 66
+Cucd: 135
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\150.xmi
+Вычисленные метрики:
+NOUC: 3
+NOA: 2
+NOUCA: 0,67
+UC2: 3
+UC3: 3
+UC4: 3,9
+CTE: 9
+CIE: 9
+Cucd: 18
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\60-1.xmi
+Вычисленные метрики:
+NOUC: 12
+NOA: 2
+NOUCA: 0,17
+UC2: 9
+UC3: 9
+UC4: 23,4
+CTE: 32
+CIE: 32
+Cucd: 64
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\60-2.xmi
+Вычисленные метрики:
+NOUC: 2
+NOA: 1
+NOUCA: 0,5
+UC2: 2
+UC3: 2
+UC4: 2,4
+CTE: 6
+CIE: 6
+Cucd: 12
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\61-1.xmi
+Вычисленные метрики:
+NOUC: 17
+NOA: 3
+NOUCA: 0,18
+UC2: 9
+UC3: 9
+UC4: 37,9
+CTE: 41
+CIE: 42
+Cucd: 83
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\61-2.xmi
+Вычисленные метрики:
+NOUC: 17
+NOA: 3
+NOUCA: 0,18
+UC2: 9
+UC3: 9
+UC4: 37,9
+CTE: 41
+CIE: 42
+Cucd: 83
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\61-3.xmi
+Вычисленные метрики:
+NOUC: 17
+NOA: 3
+NOUCA: 0,18
+UC2: 9
+UC3: 9
+UC4: 37,9
+CTE: 41
+CIE: 42
+Cucd: 83
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\62.xmi
+Вычисленные метрики:
+NOUC: 1
+NOA: 1
+NOUCA: 1
+UC2: 1
+UC3: 1
+UC4: 1,1
+CTE: 3
+CIE: 3
+Cucd: 6
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\63.xmi
+Вычисленные метрики:
+NOUC: 4
+NOA: 2
+NOUCA: 0,5
+UC2: 4
+UC3: 4
+UC4: 5,6
+CTE: 12
+CIE: 12
+Cucd: 24
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\64.xmi
+Вычисленные метрики:
+NOUC: 8
+NOA: 7
+NOUCA: 0,88
+UC2: 21
+UC3: 31,49
+UC4: 37,89
+CTE: 63
+CIE: 63
+Cucd: 126
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\66.xmi
+Вычисленные метрики:
+NOUC: 22
+NOA: 4
+NOUCA: 0,18
+UC2: 29
+UC3: 23,80
+UC4: 73,40
+CTE: 120
+CIE: 117
+Cucd: 237
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\67.xmi
+Вычисленные метрики:
+NOUC: 10
+NOA: 3
+NOUCA: 0,3
+UC2: 20
+UC3: 26,77
+UC4: 36,77
+CTE: 60
+CIE: 60
+Cucd: 120
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\68.xmi
+Вычисленные метрики:
+NOUC: 18
+NOA: 4
+NOUCA: 0,22
+UC2: 14
+UC3: 18,47
+UC4: 50,87
+CTE: 60
+CIE: 60
+Cucd: 120
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\69.xmi
+Вычисленные метрики:
+NOUC: 157
+NOA: 41
+NOUCA: 0,26
+UC2: 161
+UC3: 207,28
+UC4: 2672,78
+CTE: 656
+CIE: 637
+Cucd: 1293
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\70.xmi
+Вычисленные метрики:
+NOUC: 8
+NOA: 5
+NOUCA: 0,62
+UC2: 16
+UC3: 21,11
+UC4: 27,51
+CTE: 48
+CIE: 48
+Cucd: 96
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\71.xmi
+Вычисленные метрики:
+NOUC: 8
+NOA: 5
+NOUCA: 0,62
+UC2: 16
+UC3: 21,11
+UC4: 27,51
+CTE: 48
+CIE: 48
+Cucd: 96
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\72.xmi
+Вычисленные метрики:
+NOUC: 195
+NOA: 47
+NOUCA: 0,24
+UC2: 199
+UC3: 251,51
+UC4: 4055,01
+CTE: 789
+CIE: 734
+Cucd: 1523
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\73.xmi
+Вычисленные метрики:
+NOUC: 66
+NOA: 11
+NOUCA: 0,17
+UC2: 84
+UC3: 103,92
+UC4: 540,02
+CTE: 293
+CIE: 285
+Cucd: 578
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\74.xmi
+Вычисленные метрики:
+NOUC: 22
+NOA: 4
+NOUCA: 0,18
+UC2: 29
+UC3: 23,80
+UC4: 73,40
+CTE: 120
+CIE: 117
+Cucd: 237
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\75.xmi
+Вычисленные метрики:
+NOUC: 10
+NOA: 3
+NOUCA: 0,3
+UC2: 20
+UC3: 26,77
+UC4: 36,77
+CTE: 60
+CIE: 60
+Cucd: 120
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\76.xmi
+Вычисленные метрики:
+NOUC: 18
+NOA: 4
+NOUCA: 0,22
+UC2: 14
+UC3: 18,47
+UC4: 50,87
+CTE: 60
+CIE: 60
+Cucd: 120
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\77.xmi
+Вычисленные метрики:
+NOUC: 1
+NOA: 4
+NOUCA: 4
+UC2: 2
+UC3: 2,64
+UC4: 2,74
+CTE: 6
+CIE: 6
+Cucd: 12
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\80.xmi
+Вычисленные метрики:
+NOUC: 16
+NOA: 8
+NOUCA: 0,5
+UC2: 23
+UC3: 32,44
+UC4: 58,04
+CTE: 80
+CIE: 80
+Cucd: 160
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\81.xmi
+Вычисленные метрики:
+NOUC: 18
+NOA: 8
+NOUCA: 0,44
+UC2: 30
+UC3: 37,10
+UC4: 69,90
+CTE: 109
+CIE: 109
+Cucd: 218
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\82.xmi
+Вычисленные метрики:
+NOUC: 6
+NOA: 3
+NOUCA: 0,5
+UC2: 10
+UC3: 13,57
+UC4: 17,17
+CTE: 32
+CIE: 32
+Cucd: 64
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\83.xmi
+Вычисленные метрики:
+NOUC: 8
+NOA: 5
+NOUCA: 0,62
+UC2: 16
+UC3: 21,11
+UC4: 27,51
+CTE: 48
+CIE: 48
+Cucd: 96
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\84.xmi
+Вычисленные метрики:
+NOUC: 13
+NOA: 4
+NOUCA: 0,31
+UC2: 16
+UC3: 21,11
+UC4: 38,01
+CTE: 55
+CIE: 55
+Cucd: 110
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\85.xmi
+Вычисленные метрики:
+NOUC: 2
+NOA: 1
+NOUCA: 0,5
+UC2: 2
+UC3: 2
+UC4: 2,4
+CTE: 6
+CIE: 6
+Cucd: 12
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\86.xmi
+Вычисленные метрики:
+NOUC: 27
+NOA: 4
+NOUCA: 0,15
+UC2: 33
+UC3: 26,44
+UC4: 100,74
+CTE: 137
+CIE: 134
+Cucd: 271
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\87.xmi
+Вычисленные метрики:
+NOUC: 67
+NOA: 9
+NOUCA: 0,13
+UC2: 65
+UC3: 61,44
+UC4: 512,14
+CTE: 266
+CIE: 254
+Cucd: 520
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\88.xmi
+Вычисленные метрики:
+NOUC: 195
+NOA: 47
+NOUCA: 0,24
+UC2: 199
+UC3: 251,51
+UC4: 4055,01
+CTE: 789
+CIE: 734
+Cucd: 1523
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\89.xmi
+Вычисленные метрики:
+NOUC: 9
+NOA: 3
+NOUCA: 0,33
+UC2: 15
+UC3: 19,47
+UC4: 27,57
+CTE: 47
+CIE: 47
+Cucd: 94
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\90.xmi
+Вычисленные метрики:
+NOUC: 29
+NOA: 4
+NOUCA: 0,14
+UC2: 34
+UC3: 25,13
+UC4: 110,73
+CTE: 150
+CIE: 147
+Cucd: 297
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\91.xmi
+Вычисленные метрики:
+NOUC: 57
+NOA: 14
+NOUCA: 0,25
+UC2: 62
+UC3: 66,57
+UC4: 392,57
+CTE: 265
+CIE: 259
+Cucd: 524
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\92.xmi
+Вычисленные метрики:
+NOUC: 8
+NOA: 4
+NOUCA: 0,5
+UC2: 15
+UC3: 20,49
+UC4: 26,89
+CTE: 45
+CIE: 45
+Cucd: 90
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\93.xmi
+Вычисленные метрики:
+NOUC: 7
+NOA: 4
+NOUCA: 0,57
+UC2: 15
+UC3: 20,49
+UC4: 25,39
+CTE: 45
+CIE: 45
+Cucd: 90
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\94.xmi
+Вычисленные метрики:
+NOUC: 54
+NOA: 19
+NOUCA: 0,35
+UC2: 50
+UC3: 65,34
+UC4: 356,94
+CTE: 199
+CIE: 192
+Cucd: 391
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\95.xmi
+Вычисленные метрики:
+NOUC: 61
+NOA: 19
+NOUCA: 0,31
+UC2: 50
+UC3: 65,34
+UC4: 437,44
+CTE: 203
+CIE: 189
+Cucd: 392
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\96.xmi
+Вычисленные метрики:
+NOUC: 61
+NOA: 19
+NOUCA: 0,31
+UC2: 50
+UC3: 65,34
+UC4: 437,44
+CTE: 203
+CIE: 189
+Cucd: 392
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\97.xmi
+Вычисленные метрики:
+NOUC: 12
+NOA: 2
+NOUCA: 0,17
+UC2: 8
+UC3: 10,56
+UC4: 24,96
+CTE: 34
+CIE: 30
+Cucd: 64
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\98.xmi
+Вычисленные метрики:
+NOUC: 40
+NOA: 14
+NOUCA: 0,35
+UC2: 52
+UC3: 53,37
+UC4: 214,47
+CTE: 196
+CIE: 190
+Cucd: 386
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\99.xmi
+Вычисленные метрики:
+NOUC: 18
+NOA: 4
+NOUCA: 0,22
+UC2: 14
+UC3: 18,47
+UC4: 50,87
+CTE: 60
+CIE: 60
+Cucd: 120
+
+Выбранный файл: C:\Users\PC\Documents\Visual Studio 2010\Projects\ConsoleApplication1\xmiFiles\library test.xmi
+Вычисленные метрики:
+NOUC: 15
+NOA: 3
+NOUCA: 0,2
+UC2: 11
+UC3: 12,28
+UC4: 34,78
+CTE: 51
+CIE: 50
+Cucd: 101
+

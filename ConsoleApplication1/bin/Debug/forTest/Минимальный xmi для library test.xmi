@@ -1,0 +1,91 @@
+<xmi:XMI xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
+  <uml:Model xmi:id="_ehr7QPVUEe2WPKO9eknDFA" name="library test">
+    <!--Акторы-->
+    <packagedElement xsi:type="uml:Actor" xmi:id="1" name="Student"></packagedElement>
+    <packagedElement xsi:type="uml:Actor" xmi:id="2" name="Supplier"></packagedElement>
+    <packagedElement xsi:type="uml:Actor" xmi:id="3" name="Librarian"></packagedElement>
+    <!--Прецеденты, которые никуда не включаются и ничего не расширяют-->
+    <packagedElement xsi:type="uml:UseCase" xmi:id="4" name="Update accounts"></packagedElement>
+    <packagedElement xsi:type="uml:UseCase" xmi:id="5" name="Update book"></packagedElement>
+    <packagedElement xsi:type="uml:UseCase" xmi:id="6" name="Update member"></packagedElement>
+    <packagedElement xsi:type="uml:UseCase" xmi:id="7" name="Update book"></packagedElement>
+    <packagedElement xsi:type="uml:UseCase" xmi:id="8" name="Ask order"></packagedElement>
+    <!--Прецеденты, которые включаются в другие прецеденты (Включаемые)-->
+    <packagedElement xsi:type="uml:UseCase" xmi:id="9" name="Add member">
+      <include addition="6" includingCase="9"></include>
+    </packagedElement>
+    <packagedElement xsi:type="uml:UseCase" xmi:id="10" name="Remove member">
+    <include addition="6" includingCase="10"></include>
+    </packagedElement>
+    <packagedElement xsi:type="uml:UseCase" xmi:id="11" name="Add book">
+    <include addition="7" includingCase="11"></include>
+    </packagedElement>
+    <packagedElement xsi:type="uml:UseCase" xmi:id="12" name="Remove book">
+    <include addition="7" includingCase="12"></include>
+    </packagedElement>
+    <packagedElement xsi:type="uml:UseCase" xmi:id="13" name="Issue book">
+    <include addition="7" includingCase="13"></include>
+    </packagedElement>
+    <packagedElement xsi:type="uml:UseCase" xmi:id="14" name="Return book">
+    <include addition="7" includingCase="14"></include>
+    </packagedElement>
+    <packagedElement xsi:type="uml:UseCase" xmi:id="15" name="Supply book">
+    <include addition="5" includingCase="15"></include>
+    </packagedElement>
+    <packagedElement xsi:type="uml:UseCase" xmi:id="16" name="Send bill">
+    <include addition="4" includingCase="16"></include>
+    </packagedElement>
+    <!--Прецеденты, которые расширяют другие прецеденты-->
+    <packagedElement xsi:type="uml:UseCase" xmi:id="17" name="Compute fine">
+      <extend extendedCase="14" extension="17"></extend>
+    </packagedElement>
+    <packagedElement xsi:type="uml:UseCase" xmi:id="18" name="Renew book">
+      <extend extendedCase="14" extension="18"></extend>
+    </packagedElement>
+    <!--Ассоциации-->
+    <packagedElement xsi:type="uml:Association" name="Supplier_Send bill">
+      <ownedEnd type="2"></ownedEnd>
+      <ownedEnd type="16"></ownedEnd>
+    </packagedElement>
+    <packagedElement xsi:type="uml:Association" name="Supplier_Supply book">
+      <ownedEnd type="2"></ownedEnd>
+      <ownedEnd type="15"></ownedEnd>
+    </packagedElement>
+    <packagedElement xsi:type="uml:Association" name="Supplier_Ask order">
+      <ownedEnd type="2"></ownedEnd>
+      <ownedEnd type="8"></ownedEnd>
+    </packagedElement>
+    <packagedElement xsi:type="uml:Association" name="Return book_Student">
+      <ownedEnd type="14"></ownedEnd>
+      <ownedEnd type="1"></ownedEnd>
+    </packagedElement>
+    <packagedElement xsi:type="uml:Association" name="Issue book_Student">
+      <ownedEnd type="13"></ownedEnd>
+      <ownedEnd type="1"></ownedEnd>
+    </packagedElement>
+    <packagedElement xsi:type="uml:Association" name="Librarian_Return book">
+      <ownedEnd type="3"></ownedEnd>
+      <ownedEnd type="14"></ownedEnd>
+    </packagedElement>
+    <packagedElement xsi:type="uml:Association" name="Librarian_Issue book">
+      <ownedEnd type="3"></ownedEnd>
+      <ownedEnd type="13"></ownedEnd>
+    </packagedElement>
+    <packagedElement xsi:type="uml:Association" name="Librarian_Remove book">
+      <ownedEnd type="3"></ownedEnd>
+      <ownedEnd type="12"></ownedEnd>
+    </packagedElement>
+    <packagedElement xsi:type="uml:Association" name="Librarian_Add book">
+      <ownedEnd type="3"></ownedEnd>
+      <ownedEnd type="11"></ownedEnd>
+    </packagedElement>
+    <packagedElement xsi:type="uml:Association" name="Librarian_Remove member">
+      <ownedEnd type="3"></ownedEnd>
+      <ownedEnd type="10"></ownedEnd>
+    </packagedElement>
+    <packagedElement xsi:type="uml:Association" name="Librarian_Add member">
+      <ownedEnd type="3"></ownedEnd>
+      <ownedEnd type="9"></ownedEnd>
+    </packagedElement>
+  </uml:Model>
+</xmi:XMI>

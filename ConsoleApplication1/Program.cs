@@ -75,10 +75,12 @@ namespace ConsoleApplication1
             }
             return false;
         }
-        public static string DefineDiagramType(string filePath)
+        public static List<string> DefineDiagramType(string filePath)
         {
             var root = new XmlDocument();
             root.Load(filePath);
+
+            List<string> types = new List<string>();
 
             XmlNodeList xPackagedList;
             XmlNodeList xNodes;
@@ -89,16 +91,20 @@ namespace ConsoleApplication1
             }
             catch (NullReferenceException)
             {
-                return "Неопределено";
+                types.Add("Неопределено");
+                return types;
             }
 
             if (FindActivePackageEl(xPackagedList, "uml:Activity"))
-                return "AD";
+                types.Add("AD");
 
             if (FindActivePackageEl(xPackagedList, "uml:UseCase") || FindActiveElement(xNodes, "ownedUseCase"))
-                return "UCD";
+                types.Add("UCD");
 
-            return "Неопределено";
+            if (types.Count == 0)
+                types.Add("Неопределено");
+
+            return types;
         }
     }
     class Program
@@ -289,7 +295,7 @@ namespace ConsoleApplication1
                         continue;
                     }
                     UCDModel curModel = new UCDModel(file);
-                    if (TypeDefiner.DefineDiagramType(curModel.FilePath) == "UCD")
+                    if (TypeDefiner.DefineDiagramType(file).Contains("UCD"))
                     {
                         List<Connection> conns = new List<Connection>();
                         List<Element> elems = new List<Element>();
@@ -443,7 +449,7 @@ namespace ConsoleApplication1
                         continue;
                     }
                     ADModel curModel = new ADModel(file);
-                    if (TypeDefiner.DefineDiagramType(curModel.FilePath) == "AD")
+                    if (TypeDefiner.DefineDiagramType(file).Contains("AD"))
                     {
                         var adNodesList = new ADNodesList();
                         XmiParser parser = new XmiParser(adNodesList);
@@ -691,70 +697,74 @@ namespace ConsoleApplication1
                         UCDsw.WriteLine(e.Message + '\n');
                         continue;
                     }
-                    string modelType = TypeDefiner.DefineDiagramType(file);
-                    if (modelType == "UCD")
-                        curUCDModel = new UCDModel(file);
-                    else
-                        curADModel = new ADModel(file);
-
-                    if ( modelType == "Неопределено")
+                    List<string> modelTypes = TypeDefiner.DefineDiagramType(file);
+                    foreach (var modelType in modelTypes)
                     {
-                        continue;
-                    }
 
-                    switch (modelType)
-                    {
-                        case "UCD":
-                            UCDlw.WriteLine("ВЫБРАННЫЙ ФАЙЛ " + curUCDModel.FilePath + ":");
-                            UCDFileFixer UCDfileFixer = new UCDFileFixer(curUCDModel.Conns, curUCDModel.Elems);
-                            totalUCDCount = UCDfileFixer.Fix(UCDlw);
-                            break;
-                        case "AD":
-                            ADlw.WriteLine("ВЫБРАННЫЙ ФАЙЛ " + curADModel.FilePath + ":");
-                            break;
-                        default:
-                            break;
-                    }
+                        if (modelType == "UCD")
+                            curUCDModel = new UCDModel(file);
+                        else
+                            curADModel = new ADModel(file);
 
+                        if (modelType == "Неопределено")
+                        {
+                            continue;
+                        }
 
-                    switch (modelType)
-                    {
-                        case "UCD":
-                            UCDMetricCalculator mc = new UCDMetricCalculator(curUCDModel);
-                            try
-                            {
-                                mc.Calculate();
-                            }
-                            catch (Exception e)
-                            {
-                                UCDsw.WriteLine("Выбранный файл: " + curUCDModel.FilePath);
-                                UCDsw.WriteLine("Программа не может вычислить метрики.\nСкорее всего ошибка в xmi файле.\nПроверьте xmi-файл после чего попробуйте снова.");
-                                UCDsw.WriteLine(e.Message + '\n');
+                        switch (modelType)
+                        {
+                            case "UCD":
+                                UCDlw.WriteLine("ВЫБРАННЫЙ ФАЙЛ " + curUCDModel.FilePath + ":");
+                                UCDFileFixer UCDfileFixer = new UCDFileFixer(curUCDModel.Conns, curUCDModel.Elems);
+                                totalUCDCount = UCDfileFixer.Fix(UCDlw);
                                 break;
-                            }
-                            FileUCDOutput(UCDsw, mc, file);
-                            ExcelMetricsUCDOutput(UCDWsMetrics, mc, curExcelUCDIndex, file.Split('\\')[file.Split('\\').Count() - 1]);
-                            curExcelUCDIndex++;
-                            break;
-                        case "AD":
-                            ADMetricCalculator am = new ADMetricCalculator(curADModel, ADlw);
-                            try
-                            {
-                                am.Calculate();
-                            }
-                            catch (Exception e)
-                            {
-                                ADsw.WriteLine("Выбранный файл: " + curADModel.FilePath);
-                                ADsw.WriteLine("Программа не может вычислить метрики.\nСкорее всего ошибка в xmi файле.\nПроверьте xmi-файл после чего попробуйте снова.");
-                                ADsw.WriteLine(e.Message + '\n');
+                            case "AD":
+                                ADlw.WriteLine("ВЫБРАННЫЙ ФАЙЛ " + curADModel.FilePath + ":");
                                 break;
-                            }
-                            FileADOutput(ADsw, am, file);
-                            ExcelMetricsADOutput(ADWsMetrics, am, curExcelADIndex, file.Split('\\')[file.Split('\\').Count() - 1]);
-                            curExcelADIndex++;
-                            break;
-                        default:
-                            break;
+                            default:
+                                break;
+                        }
+
+
+                        switch (modelType)
+                        {
+                            case "UCD":
+                                UCDMetricCalculator mc = new UCDMetricCalculator(curUCDModel);
+                                try
+                                {
+                                    mc.Calculate();
+                                }
+                                catch (Exception e)
+                                {
+                                    UCDsw.WriteLine("Выбранный файл: " + curUCDModel.FilePath);
+                                    UCDsw.WriteLine("Программа не может вычислить метрики.\nСкорее всего ошибка в xmi файле.\nПроверьте xmi-файл после чего попробуйте снова.");
+                                    UCDsw.WriteLine(e.Message + '\n');
+                                    break;
+                                }
+                                FileUCDOutput(UCDsw, mc, file);
+                                ExcelMetricsUCDOutput(UCDWsMetrics, mc, curExcelUCDIndex, file.Split('\\')[file.Split('\\').Count() - 1]);
+                                curExcelUCDIndex++;
+                                break;
+                            case "AD":
+                                ADMetricCalculator am = new ADMetricCalculator(curADModel, ADlw);
+                                try
+                                {
+                                    am.Calculate();
+                                }
+                                catch (Exception e)
+                                {
+                                    ADsw.WriteLine("Выбранный файл: " + curADModel.FilePath);
+                                    ADsw.WriteLine("Программа не может вычислить метрики.\nСкорее всего ошибка в xmi файле.\nПроверьте xmi-файл после чего попробуйте снова.");
+                                    ADsw.WriteLine(e.Message + '\n');
+                                    break;
+                                }
+                                FileADOutput(ADsw, am, file);
+                                ExcelMetricsADOutput(ADWsMetrics, am, curExcelADIndex, file.Split('\\')[file.Split('\\').Count() - 1]);
+                                curExcelADIndex++;
+                                break;
+                            default:
+                                break;
+                        }
                     }
                 }
             }
